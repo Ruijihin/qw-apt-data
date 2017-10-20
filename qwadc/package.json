@@ -106,5 +106,5 @@
     "webpack": "3.6.0",
     "webpack-dev-server": "2.8.2"
   },
-  "license": "SEE LICENSE IN LICENSE.md"
+  "license": "SEE LICENSE IN FILE 'LICENSE'"
 }
