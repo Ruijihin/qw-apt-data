@@ -330,7 +330,7 @@ export class QwXmlConverter {
                         icao: parser.parsedObj.icao,
                         xml: `<?xml version="1.0" encoding="ISO-8859-1"?>
 
-<!-- Created by QW Airport Data Converter -->
+<!-- Created by QW APT Data Converter (${new Date().toDateString()}) -->
 
 <FSData
   version="9.0"
