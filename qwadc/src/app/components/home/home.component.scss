@@ -1,0 +1,15 @@
+.container {
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  
+  .explanation {
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+    color: #ccc;
+    font-size: 0.8em;
+    background-color: #2D2D2D;
+    margin:0;
+    padding:0 45px;
+  }
+
+}

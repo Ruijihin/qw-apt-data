@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="explanation">
+    GoogleEarthの空港フォルダをコピーして、下に貼り付けたらFileメニューから変換してください。
+  </div>
+  <div ace-editor
+    [(text)]="text"
+    [mode]="'sql'"
+    [theme]="'tomorrow_night_eighties'"
+    [options]="options"
+    [readOnly]="false"
+    [autoUpdateContent]="true"
+    [durationBeforeCallback]="10"
+    (textChanged)="onChange($event)"
+    style="min-height: 100%; width:100%; overflow: auto;">
+  </div>
+</div>
