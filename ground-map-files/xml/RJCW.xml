@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Created by QW APT Data Converter (Fri Oct 20 2017) -->
+
+<FSData
+  version="9.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- ====== Buildings section ====== -->
+<!-- =============================== -->
+<!-- =============================== -->
+
+<!-- TERMINAL -->
+<SceneryObject
+  lat="45.39971709781126"
+  lon="141.7975297938982">
+  <Footprint
+    <Poly
+      <Point
+        X="0"
+        Y="0"/>
+      <Point
+        X="-7.864215320431983"
+        Y="19.420103537156617"/>
+      <Point
+        X="5.127227990263902"
+        Y="24.61364859454718"/>
+      <Point
+        X="3.9565216402132237"
+        Y="27.33615879216618"/>
+      <Point
+        X="-13.110555577682023"
+        Y="20.804581549372987"/>
+      <Point
+        X="-24.982949863972607"
+        Y="31.109201485962814"/>
+      <Point
+        X="-26.690585188747182"
+        Y="28.612782166057"/>
+      <Point
+        X="-14.52830164892443"
+        Y="18.425193274369192"/>
+      <Point
+        X="-11.907575378215075"
+        Y="17.951808059694883"/>
+      <Point
+        X="-4.3161705760797915"
+        Y="-1.5200156440586512"/>
+      <Point
+        X="-45.36636948946943"
+        Y="-17.63387218806288"/>
+      <Point
+        X="-55.981274210854"
+        Y="9.543974996256733"/>
+      <Point
+        X="-64.94475852005007"
+        Y="6.272906006978216"/>
+      <Point
+        X="-62.65321767790938"
+        Y="0.47258819759149207"/>
+      <Point
+        X="-57.750184375514166"
+        Y="2.250031242920617"/>
+      <Point
+        X="-47.13391859899369"
+        Y="-25.264405821301963"/>
+      <Point
+        X="-45.20387806289667"
+        Y="-24.50766835247224"/>
+      <Point
+        X="-37.21476155700996"
+        Y="-46.10449026130637"/>
+      <Point
+        X="25.214250852168654"
+        Y="-22.00640004553021"/>
+      <Point
+        X="21.99973208472229"
+        Y="-13.145576145625594"/>
+      <Point
+        X="26.68487353875383"
+        Y="-11.336294510143766"/>
+      <Point
+        X="19.432466321308397"
+        Y="7.6006058094874875"/>
+      <Point
+        X="0"
+        Y="0"/>
+    />
+  />
+</SceneryObject>
+
+
+<Airport>
+
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- ======== Label section ======== -->
+<!-- =============================== -->
+<!-- =============================== -->
+<TaxiwayParking
+  number="1"
+  lat="45.39993063812208"
+  lon="141.7963270791574"
+  name="GATE"/>
+
+<TaxiwayParking
+  number="2"
+  lat="45.40012530956884"
+  lon="141.7970513854378"
+  name="GATE"/>
+
+<TaxiwayParking
+  number="3"
+  lat="45.40029222500664"
+  lon="141.7976751591241"
+  name="GATE"/>
+
+<TaxiwayParking
+  number="4"
+  lat="45.40044080411993"
+  lon="141.7982118685803"
+  name="GATE"/>
+
+
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- ====== Taxiways section ======= -->
+<!-- =============================== -->
+<!-- =============================== -->
+
+<!-- =============================== -->
+<!-- == Taxiway Label definitions == -->
+<!-- =============================== -->
+
+<!-- =============================== -->
+<!-- ==== TaxiPoint definitions ==== -->
+<!-- =============================== -->
+
+<!-- ====== TAXIWAY ======= -->
+<TaxiwayPoint
+  index="0"
+  lat="45.40264792207362"
+  lon="141.7955535157951"/>
+
+<TaxiwayPoint
+  index="1"
+  lat="45.4010044682266"
+  lon="141.7964579957852"/>
+
+<!-- ====== SPOT1 ======= -->
+<TaxiwayPoint
+  index="2"
+  lat="45.40100521929543"
+  lon="141.7964586667082"/>
+
+<TaxiwayPoint
+  index="3"
+  lat="45.40091659509834"
+  lon="141.7964737181711"/>
+
+<TaxiwayPoint
+  index="4"
+  lat="45.40084080775358"
+  lon="141.7964657649509"/>
+
+<TaxiwayPoint
+  index="5"
+  lat="45.40076315502721"
+  lon="141.7964292056902"/>
+
+<TaxiwayPoint
+  index="6"
+  lat="45.40067162634555"
+  lon="141.796354309902"/>
+
+<TaxiwayPoint
+  index="7"
+  lat="45.40060846410114"
+  lon="141.7962508046356"/>
+
+<TaxiwayPoint
+  index="8"
+  lat="45.40055440886392"
+  lon="141.796088611073"/>
+
+<TaxiwayPoint
+  index="9"
+  lat="45.40052955450398"
+  lon="141.7959942431941"/>
+
+<TaxiwayPoint
+  index="10"
+  lat="45.40046826009936"
+  lon="141.7959624007122"/>
+
+<TaxiwayPoint
+  index="11"
+  lat="45.40039930603366"
+  lon="141.7959588707065"/>
+
+<TaxiwayPoint
+  index="12"
+  lat="45.40034008614439"
+  lon="141.7959851251606"/>
+
+<TaxiwayPoint
+  index="13"
+  lat="45.40027237764356"
+  lon="141.7960293701117"/>
+
+<TaxiwayPoint
+  index="14"
+  lat="45.40022931172047"
+  lon="141.7960954349595"/>
+
+<TaxiwayPoint
+  index="15"
+  lat="45.40019390831078"
+  lon="141.7961762442137"/>
+
+<TaxiwayPoint
+  index="16"
+  lat="45.39976963913376"
+  lon="141.7964163488312"/>
+
+<!-- ====== SPOT2 ======= -->
+<TaxiwayPoint
+  index="17"
+  lat="45.40100521929543"
+  lon="141.7964586667082"/>
+
+<TaxiwayPoint
+  index="18"
+  lat="45.40092612410999"
+  lon="141.7965385972213"/>
+
+<TaxiwayPoint
+  index="19"
+  lat="45.40085303734576"
+  lon="141.796677213668"/>
+
+<TaxiwayPoint
+  index="20"
+  lat="45.4008141166938"
+  lon="141.7968164154333"/>
+
+<TaxiwayPoint
+  index="21"
+  lat="45.40080832694644"
+  lon="141.7969594468602"/>
+
+<TaxiwayPoint
+  index="22"
+  lat="45.40081930706255"
+  lon="141.7970585348785"/>
+
+<TaxiwayPoint
+  index="23"
+  lat="45.40096656057518"
+  lon="141.7975961372939"/>
+
+<TaxiwayPoint
+  index="24"
+  lat="45.40097795399678"
+  lon="141.7976896222041"/>
+
+<TaxiwayPoint
+  index="25"
+  lat="45.40096263698377"
+  lon="141.7978108312273"/>
+
+<TaxiwayPoint
+  index="26"
+  lat="45.40092184900642"
+  lon="141.7978998976244"/>
+
+<TaxiwayPoint
+  index="27"
+  lat="45.4008789885471"
+  lon="141.7979523954819"/>
+
+<TaxiwayPoint
+  index="28"
+  lat="45.4008319863077"
+  lon="141.7979963413183"/>
+
+<TaxiwayPoint
+  index="29"
+  lat="45.4002789223827"
+  lon="141.7982998522223"/>
+
+<!-- ====== SPOT3 ======= -->
+<TaxiwayPoint
+  index="30"
+  lat="45.40087069121888"
+  lon="141.7966359885031"/>
+
+<TaxiwayPoint
+  index="31"
+  lat="45.39996634293126"
+  lon="141.7971363667979"/>
+
+<!-- ====== SPOT4 ======= -->
+<TaxiwayPoint
+  index="32"
+  lat="45.40082686471309"
+  lon="141.7970988414951"/>
+
+<TaxiwayPoint
+  index="33"
+  lat="45.40082864195411"
+  lon="141.7971976772774"/>
+
+<TaxiwayPoint
+  index="34"
+  lat="45.40081727643047"
+  lon="141.7972670739478"/>
+
+<TaxiwayPoint
+  index="35"
+  lat="45.40079085049833"
+  lon="141.7973406779642"/>
+
+<TaxiwayPoint
+  index="36"
+  lat="45.40075305485486"
+  lon="141.7974069229596"/>
+
+<TaxiwayPoint
+  index="37"
+  lat="45.40070728435141"
+  lon="141.7974428871693"/>
+
+<TaxiwayPoint
+  index="38"
+  lat="45.40013484931423"
+  lon="141.7977659475347"/>
+
+<!-- ====== TP08 ======= -->
+<TaxiwayPoint
+  index="39"
+  lat="45.40062985691991"
+  lon="141.7892899555438"/>
+
+<TaxiwayPoint
+  index="40"
+  lat="45.40059872723064"
+  lon="141.7893292361456"/>
+
+<TaxiwayPoint
+  index="41"
+  lat="45.40056645519585"
+  lon="141.7893859343604"/>
+
+<TaxiwayPoint
+  index="42"
+  lat="45.40055032117063"
+  lon="141.7894426302324"/>
+
+<TaxiwayPoint
+  index="43"
+  lat="45.40053848941755"
+  lon="141.7894824706241"/>
+
+<TaxiwayPoint
+  index="44"
+  lat="45.40065217719837"
+  lon="141.789894394225"/>
+
+<TaxiwayPoint
+  index="45"
+  lat="45.4006852935788"
+  lon="141.7899870173449"/>
+
+<TaxiwayPoint
+  index="46"
+  lat="45.40072668564374"
+  lon="141.7900526932453"/>
+
+<TaxiwayPoint
+  index="47"
+  lat="45.40077871966906"
+  lon="141.7901099471187"/>
+
+<TaxiwayPoint
+  index="48"
+  lat="45.40127618558135"
+  lon="141.7906854694502"/>
+
+<TaxiwayPoint
+  index="49"
+  lat="45.40130689515101"
+  lon="141.7907354464068"/>
+
+<TaxiwayPoint
+  index="50"
+  lat="45.40134089551405"
+  lon="141.790799480096"/>
+
+<TaxiwayPoint
+  index="51"
+  lat="45.40136502586891"
+  lon="141.7908635150243"/>
+
+<TaxiwayPoint
+  index="52"
+  lat="45.40152650768295"
+  lon="141.7914693646151"/>
+
+<!-- ====== TP26 ======= -->
+<TaxiwayPoint
+  index="53"
+  lat="45.40728518026015"
+  lon="141.8126464486308"/>
+
+<TaxiwayPoint
+  index="54"
+  lat="45.40748329736022"
+  lon="141.8133731159226"/>
+
+<TaxiwayPoint
+  index="55"
+  lat="45.40749662827574"
+  lon="141.813437268636"/>
+
+<TaxiwayPoint
+  index="56"
+  lat="45.40750161714175"
+  lon="141.8135121091761"/>
+
+<TaxiwayPoint
+  index="57"
+  lat="45.40750076639161"
+  lon="141.8135952627122"/>
+
+<TaxiwayPoint
+  index="58"
+  lat="45.40749157764598"
+  lon="141.8136689095132"/>
+
+<TaxiwayPoint
+  index="59"
+  lat="45.40739981980948"
+  lon="141.8145055824382"/>
+
+<TaxiwayPoint
+  index="60"
+  lat="45.40739568881537"
+  lon="141.8145759371215"/>
+
+<TaxiwayPoint
+  index="61"
+  lat="45.40739649673034"
+  lon="141.8146486391984"/>
+
+<TaxiwayPoint
+  index="62"
+  lat="45.40740306952627"
+  lon="141.8147107903531"/>
+
+<TaxiwayPoint
+  index="63"
+  lat="45.40741640433563"
+  lon="141.8147790674947"/>
+
+<TaxiwayPoint
+  index="64"
+  lat="45.40752041094645"
+  lon="141.8151596484332"/>
+
+<TaxiwayPoint
+  index="65"
+  lat="45.40755163147826"
+  lon="141.8151868432632"/>
+
+<TaxiwayPoint
+  index="66"
+  lat="45.40758805827565"
+  lon="141.815205391838"/>
+
+<TaxiwayPoint
+  index="67"
+  lat="45.40762361900576"
+  lon="141.8152177625134"/>
+
+<TaxiwayPoint
+  index="68"
+  lat="45.40765657888061"
+  lon="141.8152239545144"/>
+
+<TaxiwayPoint
+  index="69"
+  lat="45.40767913181504"
+  lon="141.8152214933875"/>
+
+<!-- =============================== -->
+<!-- ==== TaxiPath definitions ===== -->
+<!-- =============================== -->
+<!-- ====== TAXIWAY ======= -->
+<TaxiwayPath
+  type="TAXI"
+  start="0"
+  end="1"
+  width="10M"
+  name="0"/>
+<!-- ====== SPOT1 ======= -->
+<TaxiwayPath
+  type="TAXI"
+  start="2"
+  end="3"
+  width="5M"
+  name="1"/>
+<TaxiwayPath
+  type="TAXI"
+  start="3"
+  end="4"
+  width="5M"
+  name="2"/>
+<TaxiwayPath
+  type="TAXI"
+  start="4"
+  end="5"
+  width="5M"
+  name="3"/>
+<TaxiwayPath
+  type="TAXI"
+  start="5"
+  end="6"
+  width="5M"
+  name="4"/>
+<TaxiwayPath
+  type="TAXI"
+  start="6"
+  end="7"
+  width="5M"
+  name="5"/>
+<TaxiwayPath
+  type="TAXI"
+  start="7"
+  end="8"
+  width="5M"
+  name="6"/>
+<TaxiwayPath
+  type="TAXI"
+  start="8"
+  end="9"
+  width="5M"
+  name="7"/>
+<TaxiwayPath
+  type="TAXI"
+  start="9"
+  end="10"
+  width="5M"
+  name="8"/>
+<TaxiwayPath
+  type="TAXI"
+  start="10"
+  end="11"
+  width="5M"
+  name="9"/>
+<TaxiwayPath
+  type="TAXI"
+  start="11"
+  end="12"
+  width="5M"
+  name="10"/>
+<TaxiwayPath
+  type="TAXI"
+  start="12"
+  end="13"
+  width="5M"
+  name="11"/>
+<TaxiwayPath
+  type="TAXI"
+  start="13"
+  end="14"
+  width="5M"
+  name="12"/>
+<TaxiwayPath
+  type="TAXI"
+  start="14"
+  end="15"
+  width="5M"
+  name="13"/>
+<TaxiwayPath
+  type="TAXI"
+  start="15"
+  end="16"
+  width="5M"
+  name="14"/>
+<!-- ====== SPOT2 ======= -->
+<TaxiwayPath
+  type="TAXI"
+  start="17"
+  end="18"
+  width="5M"
+  name="15"/>
+<TaxiwayPath
+  type="TAXI"
+  start="18"
+  end="19"
+  width="5M"
+  name="16"/>
+<TaxiwayPath
+  type="TAXI"
+  start="19"
+  end="20"
+  width="5M"
+  name="17"/>
+<TaxiwayPath
+  type="TAXI"
+  start="20"
+  end="21"
+  width="5M"
+  name="18"/>
+<TaxiwayPath
+  type="TAXI"
+  start="21"
+  end="22"
+  width="5M"
+  name="19"/>
+<TaxiwayPath
+  type="TAXI"
+  start="22"
+  end="23"
+  width="5M"
+  name="20"/>
+<TaxiwayPath
+  type="TAXI"
+  start="23"
+  end="24"
+  width="5M"
+  name="21"/>
+<TaxiwayPath
+  type="TAXI"
+  start="24"
+  end="25"
+  width="5M"
+  name="22"/>
+<TaxiwayPath
+  type="TAXI"
+  start="25"
+  end="26"
+  width="5M"
+  name="23"/>
+<TaxiwayPath
+  type="TAXI"
+  start="26"
+  end="27"
+  width="5M"
+  name="24"/>
+<TaxiwayPath
+  type="TAXI"
+  start="27"
+  end="28"
+  width="5M"
+  name="25"/>
+<TaxiwayPath
+  type="TAXI"
+  start="28"
+  end="29"
+  width="5M"
+  name="26"/>
+<!-- ====== SPOT3 ======= -->
+<TaxiwayPath
+  type="TAXI"
+  start="30"
+  end="31"
+  width="5M"
+  name="27"/>
+<!-- ====== SPOT4 ======= -->
+<TaxiwayPath
+  type="TAXI"
+  start="32"
+  end="33"
+  width="5M"
+  name="28"/>
+<TaxiwayPath
+  type="TAXI"
+  start="33"
+  end="34"
+  width="5M"
+  name="29"/>
+<TaxiwayPath
+  type="TAXI"
+  start="34"
+  end="35"
+  width="5M"
+  name="30"/>
+<TaxiwayPath
+  type="TAXI"
+  start="35"
+  end="36"
+  width="5M"
+  name="31"/>
+<TaxiwayPath
+  type="TAXI"
+  start="36"
+  end="37"
+  width="5M"
+  name="32"/>
+<TaxiwayPath
+  type="TAXI"
+  start="37"
+  end="38"
+  width="5M"
+  name="33"/>
+<!-- ====== TP08 ======= -->
+<TaxiwayPath
+  type="TAXI"
+  start="39"
+  end="40"
+  width="5M"
+  name="34"/>
+<TaxiwayPath
+  type="TAXI"
+  start="40"
+  end="41"
+  width="5M"
+  name="35"/>
+<TaxiwayPath
+  type="TAXI"
+  start="41"
+  end="42"
+  width="5M"
+  name="36"/>
+<TaxiwayPath
+  type="TAXI"
+  start="42"
+  end="43"
+  width="5M"
+  name="37"/>
+<TaxiwayPath
+  type="TAXI"
+  start="43"
+  end="44"
+  width="5M"
+  name="38"/>
+<TaxiwayPath
+  type="TAXI"
+  start="44"
+  end="45"
+  width="5M"
+  name="39"/>
+<TaxiwayPath
+  type="TAXI"
+  start="45"
+  end="46"
+  width="5M"
+  name="40"/>
+<TaxiwayPath
+  type="TAXI"
+  start="46"
+  end="47"
+  width="5M"
+  name="41"/>
+<TaxiwayPath
+  type="TAXI"
+  start="47"
+  end="48"
+  width="5M"
+  name="42"/>
+<TaxiwayPath
+  type="TAXI"
+  start="48"
+  end="49"
+  width="5M"
+  name="43"/>
+<TaxiwayPath
+  type="TAXI"
+  start="49"
+  end="50"
+  width="5M"
+  name="44"/>
+<TaxiwayPath
+  type="TAXI"
+  start="50"
+  end="51"
+  width="5M"
+  name="45"/>
+<TaxiwayPath
+  type="TAXI"
+  start="51"
+  end="52"
+  width="5M"
+  name="46"/>
+<!-- ====== TP26 ======= -->
+<TaxiwayPath
+  type="TAXI"
+  start="53"
+  end="54"
+  width="5M"
+  name="47"/>
+<TaxiwayPath
+  type="TAXI"
+  start="54"
+  end="55"
+  width="5M"
+  name="48"/>
+<TaxiwayPath
+  type="TAXI"
+  start="55"
+  end="56"
+  width="5M"
+  name="49"/>
+<TaxiwayPath
+  type="TAXI"
+  start="56"
+  end="57"
+  width="5M"
+  name="50"/>
+<TaxiwayPath
+  type="TAXI"
+  start="57"
+  end="58"
+  width="5M"
+  name="51"/>
+<TaxiwayPath
+  type="TAXI"
+  start="58"
+  end="59"
+  width="5M"
+  name="52"/>
+<TaxiwayPath
+  type="TAXI"
+  start="59"
+  end="60"
+  width="5M"
+  name="53"/>
+<TaxiwayPath
+  type="TAXI"
+  start="60"
+  end="61"
+  width="5M"
+  name="54"/>
+<TaxiwayPath
+  type="TAXI"
+  start="61"
+  end="62"
+  width="5M"
+  name="55"/>
+<TaxiwayPath
+  type="TAXI"
+  start="62"
+  end="63"
+  width="5M"
+  name="56"/>
+<TaxiwayPath
+  type="TAXI"
+  start="63"
+  end="64"
+  width="5M"
+  name="57"/>
+<TaxiwayPath
+  type="TAXI"
+  start="64"
+  end="65"
+  width="5M"
+  name="58"/>
+<TaxiwayPath
+  type="TAXI"
+  start="65"
+  end="66"
+  width="5M"
+  name="59"/>
+<TaxiwayPath
+  type="TAXI"
+  start="66"
+  end="67"
+  width="5M"
+  name="60"/>
+<TaxiwayPath
+  type="TAXI"
+  start="67"
+  end="68"
+  width="5M"
+  name="61"/>
+<TaxiwayPath
+  type="TAXI"
+  start="68"
+  end="69"
+  width="5M"
+  name="62"/>
+
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- ======= Runways section ======= -->
+<!-- =============================== -->
+<!-- =============================== -->
+<Runway
+  number="08"
+  designator=""
+  lat="45.40443183961747"
+  lon="141.8021093599813"
+  heading="68.881770132"
+  length="2205.23M"
+  width="45M"/>
+
+
+<!-- =============================== -->
+<!-- =============================== -->
+<!-- ======== Apron section ======== -->
+<!-- =============================== -->
+<!-- =============================== -->
+
+<Aprons>
+
+  <!-- OUTLINE -->
+  <Apron surface="ASPHALT">
+  
+    <Vertex
+      lat="45.40135627972642"
+      lon="141.7981431041159" />
+    <Vertex
+      lat="45.40106314943409"
+      lon="141.7970820869075" />
+    <Vertex
+      lat="45.40105666416677"
+      lon="141.7970174542628" />
+    <Vertex
+      lat="45.40105388356502"
+      lon="141.796955459458" />
+    <Vertex
+      lat="45.40106869875048"
+      lon="141.7968631253904" />
+    <Vertex
+      lat="45.4010927764434"
+      lon="141.7967998095266" />
+    <Vertex
+      lat="45.40112333789831"
+      lon="141.796756278815" />
+    <Vertex
+      lat="45.40116408716802"
+      lon="141.7967167043778" />
+    <Vertex
+      lat="45.40233019912256"
+      lon="141.7960742525903" />
+    <Vertex
+      lat="45.40236076704294"
+      lon="141.7960608538788" />
+    <Vertex
+      lat="45.4023960381489"
+      lon="141.7960552690848" />
+    <Vertex
+      lat="45.40242739102936"
+      lon="141.7960686623831" />
+    <Vertex
+      lat="45.40245012202784"
+      lon="141.7960820564871" />
+    <Vertex
+      lat="45.40247677267994"
+      lon="141.7961099626417" />
+    <Vertex
+      lat="45.40249950468084"
+      lon="141.7961467999348" />
+    <Vertex
+      lat="45.40728798906964"
+      lon="141.8137778535606" />
+    <Vertex
+      lat="45.40719135450926"
+      lon="141.8146598274012" />
+    <Vertex
+      lat="45.40745779280536"
+      lon="141.8156509566553" />
+    <Vertex
+      lat="45.40775207407373"
+      lon="141.8154872473481" />
+    <Vertex
+      lat="45.40791749461226"
+      lon="141.8160856435451" />
+    <Vertex
+      lat="45.40846046319109"
+      lon="141.8157872189554" />
+    <Vertex
+      lat="45.40094638267056"
+      lon="141.7881415000649" />
+    <Vertex
+      lat="45.40040046697223"
+      lon="141.788432430954" />
+    <Vertex
+      lat="45.40056405612442"
+      lon="141.7890324940481" />
+    <Vertex
+      lat="45.40026975200566"
+      lon="141.7891924809153" />
+    <Vertex
+      lat="45.40053428976923"
+      lon="141.7901700870784" />
+    <Vertex
+      lat="45.40102731345932"
+      lon="141.790747995405" />
+    <Vertex
+      lat="45.40224392769415"
+      lon="141.7952177290147" />
+    <Vertex
+      lat="45.40225563480774"
+      lon="141.7952837979652" />
+    <Vertex
+      lat="45.40225563812558"
+      lon="141.7953513513473" />
+    <Vertex
+      lat="45.40223418446543"
+      lon="141.7954172984515" />
+    <Vertex
+      lat="45.40220482430886"
+      lon="141.7954559032563" />
+    <Vertex
+      lat="45.40216970202889"
+      lon="141.7954751720096" />
+    <Vertex
+      lat="45.40105829848075"
+      lon="141.7960892779151" />
+    <Vertex
+      lat="45.40098661211665"
+      lon="141.7961194496021" />
+    <Vertex
+      lat="45.40092144148866"
+      lon="141.7961194551918" />
+    <Vertex
+      lat="45.40086930398497"
+      lon="141.7960962554696" />
+    <Vertex
+      lat="45.40081390722726"
+      lon="141.7960568131441" />
+    <Vertex
+      lat="45.4007829492494"
+      lon="141.7960127279156" />
+    <Vertex
+      lat="45.40075230230352"
+      lon="141.7959431289351" />
+    <Vertex
+      lat="45.40060786330284"
+      lon="141.7954182375808" />
+    <Vertex
+      lat="45.39943526900704"
+      lon="141.7960589088002" />
+    <Vertex
+      lat="45.400180564035"
+      lon="141.7988000634488" />
+  </Apron>
+
+</Aprons>
+
+</Airport>
+
+</FSData>
