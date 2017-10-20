@@ -6,7 +6,7 @@ The repository of KML2XML utility that enables us to build airport ground map fi
 
 * [QW APT Data Converter (QWADC)](/qwadc)  
   [Google Earth Pro](https://www.google.com/intl/ja/earth/desktop/)を使って描いたターミナルや誘導路等のデータをグラウンドマップに変換するツールです。  
-  Windowsの方は[こちら](/releases)からビルド済みの実行ファイルがダウンロードできますので、解凍してEXEファイルを実行してください。  
+  Windowsの方は[こちら](https://github.com/Ruijihin/qw-apt-data/releases)からビルド済みの実行ファイルがダウンロードできますので、解凍してEXEファイルを実行してください。  
 
 * [グラウンドマップファイル](/ground-map-files)  
   QWDACを利用して作成した[グラウンドマップファイル(XML)](/ground-map-files/xml)と、そのもととなった[KMLファイル](/ground-map-files/kml)です。  
