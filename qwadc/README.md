@@ -1,7 +1,7 @@
 # QW APT Data Converter (QWADC)
 
 [Google Earth Pro](https://www.google.com/intl/ja/earth/desktop/)を使って描いたターミナルや誘導路等のデータをグラウンドマップに変換するツールです。  
-Windowsの方は[こちら]()からビルド済みの実行ファイルがダウンロードできますので、解凍してEXEファイルを実行してください。  
+Windowsの方は[こちら](https://github.com/Ruijihin/qw-apt-data/releases)からビルド済みの実行ファイルがダウンロードできますので、解凍してEXEファイルを実行してください。  
 
 
 ## 開発者向け
