@@ -43,16 +43,29 @@ function createWindow() {
 function createMenu() {
   const menu = Menu.buildFromTemplate([
     {
-      label: 'File',
+      label: 'ファイル',
       submenu: [
         {
-          label: '変換する',
-          click() { win.webContents.send('save', { type: 'action_type' }); },
+          label: '変換',
+          click() { win.webContents.send('save'); },
           accelerator: 'Ctrl+S',
         },
         // {type: 'separator'},
       ]
     },
+    {
+      label: 'ヘルプ',
+      submenu: [
+        {
+          label: 'テンプレートをコピー',
+          click() { win.webContents.send('copy-sample'); },
+        },
+        {
+          label: 'Githubプロジェクトを見る',
+          click() { win.webContents.send('go-to-github'); },
+        }
+      ]
+    }
   ]);
   Menu.setApplicationMenu(menu);
 }
