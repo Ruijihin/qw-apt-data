@@ -1,6 +1,6 @@
 # QW787 Japanese airport ground map data project
 
-The repository of KML2XML utility that enables us to build airport ground map files for [Quality Wings 787](http://www.qualitywingssim.com/787.html) in Google Earth Pro, and the files (being) created by it.
+The repository of KML2XML utility that enables us to build airport ground map files for [Quality Wings 787](http://www.qualitywingssim.com/787.html) with Google Earth Pro, and the files (being) created by it.
 
 > Currently Japanese language only.
 
@@ -12,8 +12,8 @@ The repository of KML2XML utility that enables us to build airport ground map fi
   QWDACを利用して作成した[グラウンドマップファイル(XML)](/ground-map-files/xml)と、そのもととなった[KMLファイル](/ground-map-files/kml)です。  
   シミュレーターで利用される場合はXMLのみ`FSXフォルダ/QualityWings/QW787/Navdata/APT Data`へコピーしてください。
 
-* [グラウンドマップファイル作成ルール](/docs/for-creaters.md)  
-  作成中
+* [グラウンドマップファイル作成ルール(作成中)](/docs/for-creaters.md)  
+  グラウンドマップファイルの作成にご協力いただける方は、こちらをご覧ください。
 
 * [QW787グラウンドマップファイル仕様](/docs/mapfile-specification.md)  
   これまでに分かっているマップファイルの仕様をまとめています。  
